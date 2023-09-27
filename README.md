@@ -231,7 +231,7 @@ gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang dises
     <h3>Menambahkan Gambar</h3>
 
     <!-- Menambahkan gambar pada dokumen -->
-    <img src="Logo_UPB.png" title="Logo Universitas Pelita Bangsa">
+    <img src="../Gambar/Logo_UPB.png" title="Logo Universitas Pelita Bangsa">
 </body>
 
 </html>

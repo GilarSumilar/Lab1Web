@@ -8,12 +8,12 @@ body {
     max-width: 9999px;
 }
   
-  header {
+header {
     background-color: #3498db;
     color: white;
     padding: 10px;
     text-align: center;
-  }
+}
   
 
 main {
@@ -35,5 +35,10 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+footer a {
+    color: aliceblue;
+    text-decoration: none;
 }
   
